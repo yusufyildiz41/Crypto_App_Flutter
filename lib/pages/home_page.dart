@@ -19,11 +19,7 @@ class AppScreen extends StatefulWidget {
 
 class _AppScreenState extends State<AppScreen> {
 
-  var last1hour = 0;
-  var last1day = 1;
-  var last1week = 2;
-  var last1month = 3;
-  var last1year = 4;
+
 
   bool iconBool = false;
   IconData iconLight = Icons.wb_sunny;
